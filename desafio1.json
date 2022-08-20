@@ -1,11 +1,11 @@
 {
   "tabela_usuario": "usuario",
   "coluna_usuario": "usuario",
-  "tabela_plano": "plano",
+  "tabela_plano": "tb_plano",
   "coluna_plano": "plano",
   "tabela_historico_de_reproducoes": "historico",
   "coluna_historico_de_reproducoes": "data_reproducao",
-  "tabela_seguindo_artistas": "fa",
+  "tabela_seguindo_artistas": "seguindo_artista",
   "coluna_seguindo_artistas": "usuario_id",
   "tabela_artista": "artista",
   "coluna_artista": "nome",
